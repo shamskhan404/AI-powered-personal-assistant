@@ -24,10 +24,6 @@ An AI-powered personal assistant that reads your Gmail inbox, understands the co
 
 ## Architecture Overview
 
-> *(You can open or edit the architecture using draw.io or diagrams.net.)*
-
----
-
 ### Data Flow Description
 
 1. **Inbox Fetch**  
